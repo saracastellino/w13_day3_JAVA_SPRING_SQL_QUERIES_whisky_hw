@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc98af3a-45e4-4637-a69d-07af06b1e4d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="4_lab_and_homework_start" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="1brbcnytWAn92yFr8Rxt5c5uHFS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="JUnit.WhiskyTrackerApplicationTests.canFindDistilleryByRegion">
+    <configuration name="WhiskyTrackerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplication" />
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhiskyTrackerApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeclan.example.WhiskyTracker" />
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhiskyTrackerApplicationTests.canFindDistilleryByRegion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeclan.example.WhiskyTracker" />
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests" />
+      <option name="METHOD_NAME" value="canFindDistilleryByRegion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhiskyTrackerApplicationTests.canFindWhiskiesOfAParticularYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeclan.example.WhiskyTracker" />
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests" />
+      <option name="METHOD_NAME" value="canFindWhiskiesOfAParticularYear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests.canFindDistilleryByRegion" />
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests" />
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests.canFindWhiskiesOfAParticularYear" />
+        <item itemvalue="Application.WhiskyTrackerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc98af3a-45e4-4637-a69d-07af06b1e4d0" name="Default Changelist" comment="" />
+      <created>1589393241481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589393241481</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="359" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589393289007">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="556" y="359" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.877@0.23.1440.877" timestamp="1589393289007" />
+    <state width="759" height="184" key="GridCell.Tab.0.bottom" timestamp="1589395697900">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="759" height="184" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1589395697900" />
+    <state width="759" height="184" key="GridCell.Tab.0.center" timestamp="1589395697899">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="759" height="184" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1589395697899" />
+    <state width="759" height="184" key="GridCell.Tab.0.left" timestamp="1589395697899">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="759" height="184" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1589395697899" />
+    <state width="759" height="184" key="GridCell.Tab.0.right" timestamp="1589395697900">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="759" height="184" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1589395697900" />
+    <state x="229" y="100" key="SettingsEditor" timestamp="1589393543037">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1589393543037" />
+    <state x="390" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1589393245129">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="390" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1589393245129" />
+  </component>
+</project>

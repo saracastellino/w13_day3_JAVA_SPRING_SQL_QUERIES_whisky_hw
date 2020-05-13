@@ -1,0 +1,43 @@
+-------------------------------------------------------------------------------
+Test set: com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 8.002 s <<< FAILURE! - in com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests
+canFindWhiskiesOfAParticularYear  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: 
+Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'distilleryController' method 
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#findDistilleriesFilterByRegion(String)
+to {GET /distilleries}: There is already 'distilleryController' bean method
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#getAllDistilleries() mapped.
+Caused by: java.lang.IllegalStateException: 
+Ambiguous mapping. Cannot map 'distilleryController' method 
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#findDistilleriesFilterByRegion(String)
+to {GET /distilleries}: There is already 'distilleryController' bean method
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#getAllDistilleries() mapped.
+
+canFindDistilleryByRegion  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: 
+Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'distilleryController' method 
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#findDistilleriesFilterByRegion(String)
+to {GET /distilleries}: There is already 'distilleryController' bean method
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#getAllDistilleries() mapped.
+Caused by: java.lang.IllegalStateException: 
+Ambiguous mapping. Cannot map 'distilleryController' method 
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#findDistilleriesFilterByRegion(String)
+to {GET /distilleries}: There is already 'distilleryController' bean method
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#getAllDistilleries() mapped.
+
+contextLoads  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: 
+Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'distilleryController' method 
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#findDistilleriesFilterByRegion(String)
+to {GET /distilleries}: There is already 'distilleryController' bean method
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#getAllDistilleries() mapped.
+Caused by: java.lang.IllegalStateException: 
+Ambiguous mapping. Cannot map 'distilleryController' method 
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#findDistilleriesFilterByRegion(String)
+to {GET /distilleries}: There is already 'distilleryController' bean method
+com.codeclan.example.WhiskyTracker.controllers.DistilleryController#getAllDistilleries() mapped.
+
